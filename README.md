@@ -1,7 +1,7 @@
-# Avinya 3.0 - AI-Powered Holistic Health Assistant
+# AI based Solution for Holistic Healthcare
 
 ## 🚀 Project Overview
-Avinya 3.0 is an **AI-powered holistic health assistant** designed to help users improve their **mental and physical well-being** through **AI-driven fitness recommendations, emotional support, and wellness tracking**. Built with **Next.js, Tailwind CSS, and Langflow-powered AI**, this project provides a **conversational chatbot experience** that delivers **personalized wellness recommendations**.
+Avinya 3.0 is an **AI based Solution for Holistic Healthcare** designed to help users improve their **mental and physical well-being** through **AI-driven fitness recommendations, emotional support, and wellness tracking**. Built with **Next.js, Tailwind CSS, and Langflow-powered AI**, this project provides a **conversational chatbot experience** that delivers **personalized wellness recommendations**.
 
 ---
 
