@@ -146,7 +146,7 @@ python together.py
 
 ## 🎯 Conclusion
 
-Avinya 3.0 successfully integrates **AI-driven fitness recommendations, mental health guidance, and holistic wellness insights**. With **Langflow-powered AI chatbots and Google Generative AI**, users receive **real-time, empathetic health recommendations**.  
+The Project successfully integrates **AI-driven fitness recommendations, mental health guidance, and holistic wellness insights**. With **Langflow-powered AI chatbots and Google Generative AI**, users receive **real-time, empathetic health recommendations**.  
 
 This project offers a **powerful, interactive, and user-friendly AI companion** for **improving both physical and mental well-being**. 🚀  
 
